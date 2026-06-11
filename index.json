@@ -214,5 +214,13 @@
       "author": "lincolnloop",
       "git_url": "https://github.com/lincolnloop/python-qrcode",
       "tags": ["utility", "qrcode", "images"]
-    }
+    },
+    {
+      "id": "autocar-api",
+      "name": "AutoCar API Connector",
+      "description": "Connects to the AutoCar Software API with explicit tools to manage invoices, customers, work orders, and inventory.",
+      "author": "AutoCar Software",
+      "git_url": "https://github.com/medelmouhajir/autocar-api-skill",
+      "tags": ["erp", "workspace", "api", "automation"]
+   }
   ]
