@@ -1,13 +1,5 @@
 [
     {
-      "id": "web-search-pro",
-      "name": "Web Search Pro",
-      "description": "Advanced web searching using SearxNG and Google.",
-      "author": "ISLI-Team",
-      "git_url": "https://github.com/isli-ai/skill-web-search",
-      "tags": ["utility", "web"]
-    },
-    {
       "id": "calculator",
       "name": "Calculator",
       "description": "Perform mathematical calculations.",
@@ -86,38 +78,6 @@
       "author": "tesseract-ocr",
       "git_url": "https://github.com/tesseract-ocr/tesseract",
       "tags": ["ocr", "service"]
-    },
-    {
-      "id": "whisper",
-      "name": "whisper",
-      "description": "OpenAI Whisper: speech-to-text models and tools (PyTorch).",
-      "author": "openai",
-      "git_url": "https://github.com/openai/whisper",
-      "tags": ["speech", "transcription"]
-    },
-    {
-      "id": "whisper-cpp",
-      "name": "whisper.cpp",
-      "description": "Lightweight C++ whisper inference for local CPU transcription.",
-      "author": "ggerganov",
-      "git_url": "https://github.com/ggerganov/whisper.cpp",
-      "tags": ["speech", "transcription", "native"]
-    },
-    {
-      "id": "gtts",
-      "name": "gTTS",
-      "description": "Google Translate TTS wrapper producing MP3 audio.",
-      "author": "pndurette",
-      "git_url": "https://github.com/pndurette/gTTS",
-      "tags": ["speech", "tts"]
-    },
-    {
-      "id": "pyttsx3",
-      "name": "pyttsx3",
-      "description": "Offline TTS engine for local speech synthesis.",
-      "author": "nateshmbhat",
-      "git_url": "https://github.com/nateshmbhat/pyttsx3",
-      "tags": ["speech", "tts", "offline"]
     },
     {
       "id": "moviepy",
