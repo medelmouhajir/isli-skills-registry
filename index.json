@@ -181,7 +181,8 @@
       "description": "Connects to the AutoCar Software API with explicit tools to manage invoices, customers, work orders, and inventory.",
       "author": "AutoCar Software",
       "git_url": "https://github.com/medelmouhajir/autocar-api-skill",
-      "tags": ["erp", "workspace", "api", "automation"]
+      "tags": ["erp", "workspace", "api", "automation"],
+      "version": "v1.2.0"
    },
     {
       "id": "moroccan-law-skill-isli",
@@ -189,6 +190,7 @@
       "description": "A specialized ISLI-compatible skill for searching through Moroccan legal documents in Arabic. It utilizes fuzzy matching and automated article number extraction to provide precise legal references.",
       "author": "MedELMOUHAJIR",
       "git_url": "https://github.com/medelmouhajir/moroccan-law-skill-isli",
-      "tags": ["erp", "workspace", "api", "automation"]
+      "tags": ["erp", "workspace", "api", "automation"],
+      "version": "v1.2.0"
    }
   ]
