@@ -192,5 +192,13 @@
       "git_url": "https://github.com/medelmouhajir/moroccan-law-skill-isli",
       "tags": ["erp", "workspace", "api", "automation"],
       "version": "v1.2.0"
-   }
+   },
+    {
+      "id": "moroccan-cassation-search",
+      "name": "Moroccan Cassation Court Search",
+      "description": "Search and retrieve decisions from the Moroccan Court of Cassation (juriscassation.cspj.ma), jurisprudence.ma, and adala.justice.gov.ma.",
+      "author": "ISLI Developer",
+      "git_url": "https://github.com/medelmouhajir/ISLI_LAW_SKILL_BETA",
+      "tags": ["law", "morocco", "search", "web"]
+    }
   ]
