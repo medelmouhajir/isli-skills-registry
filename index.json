@@ -34,10 +34,9 @@
       "tags": ["procurement", "morocco", "web", "scraper"]
     },
     {
-        "id": "bam-fx-rates-wan",
-        "name": "Bank Al-Maghrib Exchange Rates",
-        "description": "Fetches live Moroccan Dirham (MAD) exchange rates and monetary statistics from the Central Bank of Morocco (BAM). Essential for
-  e-commerce, ERP, and accounting agents.",
+      "id": "bam-fx-rates-wan",
+      "name": "Bank Al-Maghrib Exchange Rates",
+      "description": "Fetches live Moroccan Dirham (MAD) exchange rates and monetary statistics from the Central Bank of Morocco (BAM). Essential for e-commerce, ERP, and accounting agents.",
         "author": "ISLI Community",
         "git_url": "https://github.com/medelmouhajir/bam-fx-rates-wan",
         "tags": ["finance", "morocco", "api", "currency"],
