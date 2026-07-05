@@ -24,5 +24,13 @@
       "author": "ISLI Developer",
       "git_url": "https://github.com/medelmouhajir/ISLI_LAW_SKILL_BETA",
       "tags": ["law", "morocco", "search", "web"]
+    },
+    {
+      "id": "maroc-marches-publics-scanner",
+      "name": "Maroc Marchés Publics Scanner",
+      "description": "Search and retrieve open Moroccan public procurement announcements from marchespublics.gov.ma",
+      "author": "ISLI Community",
+      "git_url": "https://github.com/medelmouhajir/ISLI_MARCHE_PUBLIC_SCANNER",
+      "tags": ["procurement", "morocco", "web", "scraper"]
     }
   ]
