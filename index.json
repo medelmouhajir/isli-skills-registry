@@ -49,5 +49,13 @@
       "author": "ISLI AI",
       "git_url": "https://github.com/medelmouhajir/data-gov-ma-connector",
       "tags": ["morocco", "open-data", "ckan", "market-research"]
+    },
+    {
+      "id": "anapec-job-market-wan",
+      "name": "ANAPEC Job Market Scraper",
+      "description": "Scrapes live job postings from ANAPEC, providing labor market signals (sector, region, contract type) for HR and business-advisory workflows.",
+      "author": "ISLI AI",
+      "git_url": "https://github.com/your-username/anapec-job-market-wan",
+      "tags": ["web", "scraper", "job-market", "hr"]
     }
   ]
