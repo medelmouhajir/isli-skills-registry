@@ -41,5 +41,13 @@
         "git_url": "https://github.com/medelmouhajir/bam-fx-rates-wan",
         "tags": ["finance", "morocco", "api", "currency"],
         "version": "v1.0.0"
+    },
+    {
+      "id": "data-gov-ma-connector",
+      "name": "National Open Data Portal Connector — Morocco",
+      "description": "Read-only connector to data.gov.ma (CKAN). Search datasets, browse organizations/groups, and discover downloadable resources for Moroccan market research.",
+      "author": "ISLI AI",
+      "git_url": "https://github.com/medelmouhajir/data-gov-ma-connector",
+      "tags": ["morocco", "open-data", "ckan", "market-research", "connector"]
     }
   ]
