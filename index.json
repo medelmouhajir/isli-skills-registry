@@ -57,5 +57,13 @@
       "author": "ISLI AI",
       "git_url": "https://github.com/medelmouhajir/anapec-job-market-wan",
       "tags": ["web", "scraper", "job-market", "hr"]
+    },
+    {
+      "id": "n8n-orchestrator-wan",
+      "name": "n8n Orchestrator WAN",
+      "description": "Full n8n instance management. Create, update, and manage workflows and executions programmatically with strict pre-commit JSON schema validation.",
+      "author": "medelmouhajir",
+      "git_url": "https://github.com/medelmouhajir/n8n-orchestrator-wan",
+      "tags": ["automation", "orchestrator", "utility"]
     }
   ]
