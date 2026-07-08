@@ -65,5 +65,13 @@
       "author": "medelmouhajir",
       "git_url": "https://github.com/medelmouhajir/n8n-orchestrator-wan",
       "tags": ["automation", "orchestrator", "utility"]
+    },
+    {
+      "id": "cndp-compliance-checklist",
+      "name": "CNDP Compliance Checklist",
+      "description": "Data protection compliance assistant for Morocco's Law 09-08 and CNDP guidelines.",
+      "author": "Antigravity",
+      "git_url": "https://github.com/medelmouhajir/cndp-compliance-checklist",
+      "tags": ["compliance", "legal", "morocco"]
     }
   ]
