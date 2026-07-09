@@ -73,5 +73,14 @@
       "author": "Antigravity",
       "git_url": "https://github.com/medelmouhajir/cndp-compliance-checklist",
       "tags": ["compliance", "legal", "morocco"]
+    },
+    {
+      "id": "zernio-social-media",
+      "name": "Zernio Social Media Posting",
+      "description": "Comprehensive skill to use and manage zernio.com social media posting, scheduling, profiles, connected accounts, queue configurations, analytics, and inbox comments.",
+      "author": "Antigravity AI",
+      "git_url": "https://github.com/medelmouhajir/zernio-social-media-wan",
+      "tags": ["social", "content", "posting", "analytics", "marketing", "api"],
+      "version": "v1.1.0"
     }
   ]
