@@ -72,7 +72,7 @@
       "description": "Data protection compliance assistant for Morocco's Law 09-08 and CNDP guidelines.",
       "author": "Antigravity",
       "git_url": "https://github.com/medelmouhajir/cndp-compliance-checklist",
-      "tags": ["compliance", "legal", "morocco"]
+      "tags": ["legal", "morocco"]
     },
     {
       "id": "zernio-social-media",
