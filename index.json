@@ -93,7 +93,7 @@
       "version": "v1.0.0"
     },
     {
-      "id": "gemini-image-generation-wan",
+      "id": "gemini-image-generation",
       "name": "Image Generator with Gemini WAN",
       "description": "Generate and modify images from text prompts and optional reference images using Google Gemini.",
       "author": "ISLI AI",
