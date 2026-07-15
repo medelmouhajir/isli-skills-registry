@@ -89,7 +89,7 @@
       "description": "Control Claude Code from ISLI agents. Dispatch one-shot and persistent terminal/coding tasks to a local Claude Code CLI, optionally via a custom launch command, and expose them through an ISLI v2.0 skill with an MCP bridge.",
       "author": "ISLI AI",
       "git_url": "https://github.com/medelmouhajir/claude-code-manager-wan",
-      "tags": ["automation", "claude-code", "mcp", "terminal", "coding"],
+      "tags": ["automation", "mcp", "terminal", "coding"],
       "version": "v1.0.0"
     },
     {
